@@ -1,6 +1,6 @@
 # NIRVANA
 
-![banner](banner.png)
+![banner](https://github.com/nirvana-iiits/.github/assets/66209958/b3788a5f-8191-4107-9123-5ff761cc45b0)
 
 ## The Adhyatmik Club
 
