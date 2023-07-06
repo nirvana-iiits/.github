@@ -81,7 +81,7 @@ We were deeply inspired by spiritual and nationalistic clubs of various reputed 
 
 - Shashwat Gupta
 - Divyanshu Jha
-- Biswajit Maitra
+- Bishwadip Maitra
 - Priyansh Singhal
 - Kowshik Ponnapalli
 
