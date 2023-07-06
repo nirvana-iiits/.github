@@ -75,7 +75,7 @@ We were deeply inspired by spiritual and nationalistic clubs of various reputed 
 
 ## Special Advisors
 
-- Shri Ramakrishna Rath
+- Shri Rama Krushna Rath
 
 ## Core Members (2023-2024)
 
@@ -83,6 +83,6 @@ We were deeply inspired by spiritual and nationalistic clubs of various reputed 
 - Divyanshu Jha
 - Biswajit Maitra
 - Priyansh Singhal
-- Kaushik Ponnapali
+- Kowshik Ponnapalli
 
 
