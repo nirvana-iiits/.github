@@ -2,11 +2,7 @@
 
 ![banner](https://github.com/nirvana-iiits/.github/assets/66209958/b3788a5f-8191-4107-9123-5ff761cc45b0)
 
-## The Adhyatmik Club
-
-- **Faculty Mentor**: *Dr. Piyush Joshi*
-- **Club Head**: *Raghavendra CVS*
-- **Asst Club Heads**: *Himanshu Saraswat and Aahnik Daw*
+# The Adhyatmik Club
 
 ## Objectives
 
@@ -15,6 +11,75 @@
   - achieve material success.
   - and finally, seek beyond.
 - Explore traditional Indian Knowledge Systems and their relationship with modern science.
+
+## Team (2023-2024)
+
+ - **Faculty Mentor**: *Dr. Piyush Joshi*
+ - **Special Advisor**: *Shri Rama Krushna Rath*
+ </br></br>
+
+ - **Lead**: *Divyanshu Jha*
+ - **Co-Leads**: *Himanshu Saraswat*, *Priyansh Singhal*
+
+###  Management
+
+ - #### Management Leads: 
+    - *Bishwadip Maitra*
+    - *Mahesh Datta*
+    - *Aditya Pal*
+
+- #### Management Core:
+    - *Vignesh*
+    - *Sai Reddy*
+    - *Vasudev Dilware*
+    - *Sajja Balaji Sai*
+    - *Surya*
+    - *Patel Adi*
+    - *Ashutosh Sinha*
+
+### Research
+
+ - #### Research Lead: 
+    - *Kowshik Ponnapalli*
+
+- #### Research Core:
+    - *Dara Sai Vivash*
+    - *Harshit Sharma*
+    - *Shyam Modi*
+    - *Dhruv Patel*
+    - *Piyush Kumar*
+
+### Tech
+
+ - #### Tech Lead: 
+    - *Aahnik Daw*
+    - *Parth Vijay*
+
+- #### Tech Core:
+    - *Gaurav Gautam*
+    - *Ashwin*
+
+### Public Relations
+
+ - #### PR Leads: 
+    - *Srikar Chaturvedula*
+    - *Aadarsh Singh*
+    
+- #### PR Core:
+    - *Prajwal*
+    - *Vyom Nikhra*
+    - *Siddhart Singh*
+
+### Design
+
+ - #### Design Leads: 
+    - *Piyush Singh*
+    - *AJ Harsh Vardhan*
+    
+- #### PR Core:
+    - *Naman Goyal*
+    - *Y Punarvitha*
+
 
 ## Events
 
@@ -72,17 +137,3 @@ We were deeply inspired by spiritual and nationalistic clubs of various reputed 
 - Meditation Room:
   - a silent room with a proper ambiance to meditate.
   - can be used as a community room during Festivals.
-
-## Special Advisors
-
-- Shri Rama Krushna Rath
-
-## Core Members (2023-2024)
-
-- Shashwat Gupta
-- Divyanshu Jha
-- Bishwadip Maitra
-- Priyansh Singhal
-- Kowshik Ponnapalli
-
-
