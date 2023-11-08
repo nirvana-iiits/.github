@@ -12,73 +12,7 @@
   - and finally, seek beyond.
 - Explore traditional Indian Knowledge Systems and their relationship with modern science.
 
-## Team (2023-2024)
 
- - **Faculty Mentor**: *Dr. Piyush Joshi*
- - **Special Advisor**: *Shri Rama Krushna Rath*
- </br></br>
-
- - **Lead**: *Divyanshu Jha*
- - **Co-Leads**: *Himanshu Saraswat*, *Priyansh Singhal*
-
-###  Management
-
- - #### Management Leads: 
-    - *Bishwadip Maitra*
-    - *Mahesh Datta*
-    - *Aditya Pal*
-
-- #### Management Core:
-    - *Vignesh*
-    - *Sai Reddy*
-    - *Vasudev Dilware*
-    - *Sajja Balaji Sai*
-    - *Surya*
-    - *Patel Adi*
-    - *Ashutosh Sinha*
-
-### Research
-
- - #### Research Lead: 
-    - *Kowshik Ponnapalli*
-
-- #### Research Core:
-    - *Dara Sai Vivash*
-    - *Harshit Sharma*
-    - *Shyam Modi*
-    - *Dhruv Patel*
-    - *Piyush Kumar*
-
-### Tech
-
- - #### Tech Lead: 
-    - *Aahnik Daw*
-    - *Parth Vijay*
-
-- #### Tech Core:
-    - *Gaurav Gautam*
-    - *Ashwin*
-
-### Public Relations
-
- - #### PR Leads: 
-    - *Srikar Chaturvedula*
-    - *Aadarsh Singh*
-    
-- #### PR Core:
-    - *Prajwal*
-    - *Vyom Nikhra*
-    - *Siddhart Singh*
-
-### Design
-
- - #### Design Leads: 
-    - *Piyush Singh*
-    - *AJ Harsh Vardhan*
-    
-- #### PR Core:
-    - *Naman Goyal*
-    - *Y Punarvitha*
 
 
 ## Events
@@ -134,6 +68,116 @@ We were deeply inspired by spiritual and nationalistic clubs of various reputed 
 - Pan IIIT Collaboration:
   - Do joint sessions with similar clubs of other IIITs.
   - Inspire other colleges to form similar clubs and help them start.
+  
 - Meditation Room:
   - a silent room with a proper ambiance to meditate.
   - can be used as a community room during Festivals.
+ 
+## Team (2023-2024)
+
+ - **Faculty Mentor**: *Dr. Piyush Joshi*
+ - **Special Advisor**: *Shri Rama Krushna Rath*
+ - **Lead**: *Divyanshu Jha*
+ - **Co-Leads**: *Himanshu Saraswat*, *Priyansh Singhal*
+
+<h2>Research Domain</h2>
+<p style="text-align: center;"> Here are the complete details of the Nirvana Team for 2023-24 </p>
+<table >
+  <tr>
+    <th>Role</th>
+    <th>UG-2 Members</th>
+    <th>UG-1 Members</th>
+  </tr>
+  <tr>
+    <td><strong>Research Lead</strong></td>
+    <td>Kowshik Ponnapalli</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>Research Core</strong></td>
+    <td></td>
+    <td>Dara Sai Vivash, Harshit Sharma, Shyam Modi, Patel Dhruv Sunilkumar, Piyush Kumar</td>
+
+  </tr>
+</table>
+
+<h2>PR Domain</h2>
+
+<table>
+  <tr>
+    <th>Role</th>
+    <th>UG-2 Members</th>
+    <th>UG-1 Members</th>
+  </tr>
+  <tr>
+    <td><strong>PR Lead</strong></td>
+    <td>Srikar Chaturvedula & Adarsh Singh</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>PR Core</strong></td>
+    <td>Prajwal Kumar</td>
+    <td>Siddharth Singh, Vyom Nikhra</td>
+  </tr>
+</table>
+
+<h2>Management Domain</h2>
+
+<table>
+  <tr>
+    <th>Role</th>
+    <th>UG-2 Members</th>
+    <th>UG-1 Members</th>
+  </tr>
+  <tr>
+    <td><strong>Management Lead</strong></td>
+    <td>Bishwadeep Maitra & Mahesh Datta & Aditya Pal</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>Management Core</strong></td>
+    <td>Sai Reddy, Vighnesh</td>
+    <td>Vasudev Dilware, Sajja Balaji Sai Surya, Patel Aadi, Ashutosh Sinha</td>
+  </tr>
+</table>
+
+<h2>Design Domain</h2>
+
+<table>
+  <tr>
+    <th>Role</th>
+    <th>UG-2 Members</th>
+    <th>UG-1 Members</th>
+  </tr>
+  <tr>
+    <td><strong>Design Lead</strong></td>
+    <td>Piyush Singh & AJ Harshvardhan</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>Design Core</strong></td>
+    <td></td>
+    <td>Naman Goyal, Y Punarvitha</td>
+  </tr>
+</table>
+
+<h2>Tech Domain</h2>
+
+<table>
+  <tr>
+    <th>Role</th>
+    <th>UG-2 Members</th>
+    <th>UG-1 Members</th>
+  </tr>
+  <tr>
+    <td><strong>Tech Lead</strong></td>
+    <td>Aahnik Daw & Parth Vijay</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><strong>Tech Core</strong></td>
+    <td>Ashwin</td>
+    <td>Gaurav Gautam</td>
+  </tr>
+</table>
+</div>
